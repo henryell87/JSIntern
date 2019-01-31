@@ -1,4 +1,4 @@
-// Henry Ell  // tempConvert.js
+// Henry Ell  // 2diff.js
 // January 29, 2019 // JSIntern
 //This JavaScript program gets the difference between 
 //a given number and 13 if the number is greater than 
